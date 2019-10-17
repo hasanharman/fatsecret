@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: harman.id
+mac:
+  category: your.app.category.type
+electronVersion: 4.0.0
